@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');
-
 :root {
   color: #0f172a;
   background: #f8fafc;
@@ -141,7 +139,7 @@ textarea {
   color: #ffffff;
   background:
     linear-gradient(90deg, rgba(15, 23, 42, 0.9) 0%, rgba(15, 23, 42, 0.7) 45%, rgba(15, 23, 42, 0.2) 100%),
-    url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=2200&q=85') center/cover;
+    url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1600&q=72') center/cover;
 }
 
 .hero::after {
@@ -582,7 +580,7 @@ textarea:focus {
     padding: 118px 16px 86px;
     background:
       linear-gradient(180deg, rgba(15, 23, 42, 0.92), rgba(15, 23, 42, 0.72)),
-      url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=85') center/cover;
+      url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=68') center/cover;
   }
 
   .primary-button,
